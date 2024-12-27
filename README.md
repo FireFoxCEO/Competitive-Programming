@@ -1,2 +1,2 @@
-# USACO-Grind
-USACO prep for myself
+# Competitive Programming
+Beginner in competitive programming hoping to get USACO Gold
